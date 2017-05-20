@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-cheng cheng
-=======
-cheng cheng cheng
->>>>>>> 3688033688562cce1ec46e705808023d62b01224
+cheng cheng cheng cheng
